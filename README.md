@@ -5,9 +5,6 @@
 ### Never guess a gift again.
 **A fast, searchable gift guide for every villager in Fields of Mistria.**
 
-<br>
-![Fan made](https://img.shields.io/badge/fan%20made-with%20%E2%99%A5-E0638B?style=for-the-badge)
-
 **🔗 [Open the live guide](https://koala-08.github.io/FieldsOfMistriaGiftGuide/)**
 
 </div>
