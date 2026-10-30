@@ -45,33 +45,13 @@ Pick a category, search for an item or a villager, and instantly see who **likes
 
 ## Every villager, one glance
 
-
-```
-https://koala-08.github.io/FieldsOfMistriaGiftGuide/
-```
-
 > The only thing loaded from outside is the fonts (Fredoka, Nunito, Pixelify Sans) from Google Fonts. If they can't load, the guide falls back to your system fonts and still works.
-
-<br>
-
-
-## Support the project
-
-This little guide is made with love and a lot of coffee. If it helped you charm your favorite villager, you can fuel the next update:
-
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/Koala08">
-  ☕ <b>Buy me a coffee</b>
-</a>
-
-</div>
 
 <br>
 
 ## Get in touch
 
-Want to help make this guide better or have any questions? Reach me on Reddit: **GamerKoala08**
+Want to help make this guide better or have any questions? Reddit:**GamerKoala08**
 
 <br>
 
