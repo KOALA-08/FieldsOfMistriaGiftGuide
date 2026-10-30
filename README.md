@@ -66,8 +66,6 @@ Want to help make this guide better or have any questions? Reddit:**GamerKoala08
 
 <br>
 
-<img src="assets/characters/adeline.png" width="44" alt="Adeline"> <img src="assets/characters/celine.png" width="44" alt="Celine"> <img src="assets/characters/juniper.png" width="44" alt="Juniper">
-
 *Happy gifting, and see you in Mistria!*
 
 </div>
