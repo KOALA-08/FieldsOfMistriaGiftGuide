@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Fields of Mistria Gift Guide" width="100%">
-
-<br>
+# 🌱 Fields of Mistria Gift Guide
 
 ### Never guess a gift again.
 **A fast, searchable gift guide for every villager in Fields of Mistria.**
@@ -20,8 +18,6 @@
 
 <br>
 
-<img src="assets/banner-features.png" alt="Features" width="100%">
-
 ## What is this?
 
 The **Fields of Mistria Gift Guide** is a small, cozy web page that answers one question: *"Who wants this item?"*
@@ -30,8 +26,8 @@ Pick a category, search for an item or a villager, and instantly see who **likes
 
 <div align="center">
 
-<img src="assets/ui/liked.png" width="60" alt="Liked"> &nbsp; **Liked** gives **+10** friendship &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="assets/ui/loved.png" width="60" alt="Loved"> &nbsp; **Loved** gives **+20** friendship
+🎁 **Liked** gives **+10** friendship &nbsp;&nbsp;&nbsp;&nbsp;
+💖 **Loved** gives **+20** friendship
 
 </div>
 
@@ -54,48 +50,31 @@ Pick a category, search for an item or a villager, and instantly see who **likes
 
 <br>
 
-<img src="assets/banner-villagers.png" alt="Villagers" width="100%">
-
 ## Every villager, one glance
 
-All **34 villagers** have their own portrait, including the late-game crew (Stillwell, Taliferro, Zorel, Caldarus, Seridia and Wheedle), who are tucked behind the spoiler toggle.
+
+```
+https://koala-08.github.io/FieldsOfMistriaGiftGuide/
+```
+
+> The only thing loaded from outside is the fonts (Fredoka, Nunito, Pixelify Sans) from Google Fonts. If they can't load, the guide falls back to your system fonts and still works.
+
+<br>
+
+
+## Support the project
+
+This little guide is made with love and a lot of coffee. If it helped you charm your favorite villager, you can fuel the next update:
 
 <div align="center">
 
-<img src="assets/villager-strip.png" alt="All 34 villager portraits" width="100%">
+<a href="https://www.buymeacoffee.com/Koala08">
+  ☕ <b>Buy me a coffee</b>
+</a>
 
 </div>
 
 <br>
-
-<img src="assets/banner-categories.png" alt="Categories" width="100%">
-
-## What's inside
-
-<div align="center">
-
-<img src="assets/category-strip.png" alt="Gift categories" width="100%">
-
-</div>
-
-<br>
-
-| Category | Entries |
-|---|---:|
-| 🍰 Food | 172 |
-| 🌸 Forage, flowers &amp; plants | 109 |
-| 🐟 Fish &amp; insects | 48 |
-| 🏺 Artifacts | 38 |
-| ⛏️ Ores &amp; gems | 42 |
-| 🐄 Animals | 31 |
-| 🐉 Dragon-forged *(late game)* | 4 |
-| **Total** | **444** |
-
-<div align="center">
-
-<img src="assets/item-strip.png" alt="Sample item sprites" width="85%">
-
-</div>
 
 ## Get in touch
 
@@ -114,7 +93,7 @@ Want to help make this guide better or have any questions? Reach me on Reddit: *
 
 <br>
 
-<img src="assets/characters/wheedle.png" width="44" alt="Wheedle"> <img src="assets/characters/seridia.png" width="44" alt="Seridia"> <img src="assets/characters/adeline.png" width="44" alt="Adeline"> <img src="assets/characters/celine.png" width="44" alt="Celine"> <img src="assets/characters/juniper.png" width="44" alt="Juniper">
+<img src="assets/characters/adeline.png" width="44" alt="Adeline"> <img src="assets/characters/celine.png" width="44" alt="Celine"> <img src="assets/characters/juniper.png" width="44" alt="Juniper">
 
 *Happy gifting, and see you in Mistria!*
 
