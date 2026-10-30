@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌱 Fields of Mistria Gift Guide
+#  Fields of Mistria Gift Guide
 
 ### Never guess a gift again.
 **A fast, searchable gift guide for every villager in Fields of Mistria.**
