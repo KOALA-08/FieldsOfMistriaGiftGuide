@@ -6,10 +6,6 @@
 **A fast, searchable gift guide for every villager in Fields of Mistria.**
 
 <br>
-
-![Single file](https://img.shields.io/badge/single%20file-HTML-3F7F3A?style=for-the-badge)
-![No install](https://img.shields.io/badge/install-none-F2B84B?style=for-the-badge)
-![Works offline](https://img.shields.io/badge/offline-friendly-7A4B2A?style=for-the-badge)
 ![Fan made](https://img.shields.io/badge/fan%20made-with%20%E2%99%A5-E0638B?style=for-the-badge)
 
 **🔗 [Open the live guide](https://koala-08.github.io/FieldsOfMistriaGiftGuide/)**
